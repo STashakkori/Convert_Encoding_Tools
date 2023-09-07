@@ -1,3 +1,6 @@
+// Hexadecimal To String Conversion
+// Courtesy of QVLx Labs
+
 use std::env;
 use core::str;
 
