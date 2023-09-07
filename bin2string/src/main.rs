@@ -1,3 +1,6 @@
+// Binary To String Conversion
+// Courtesy of QVLx Labs
+
 use std::env;
 use std::{num::ParseIntError};
 
