@@ -1,3 +1,6 @@
+// String To Hexadecimal Conversion
+// Courtesy of QVLx Labs
+
 use std::env;
 fn main() {
 	let args: Vec<String> = env::args().collect();
