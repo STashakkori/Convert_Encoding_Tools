@@ -1,3 +1,6 @@
+// String To Binary Conversion
+// Courtesy of QVLx Labs
+
 use std::env;
 use to_binary::BinaryString;
 fn main() {
